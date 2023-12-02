@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ashimshaheer
-- 👀 I’m interested in flutter develeper
-- 🌱 I’m currently learning flutter develepment
-- 💞️ I’m looking to collaborate on app develepment
+- 👀 I’m interested in flutter developer
+- 🌱 I’m currently learning flutter development
+- 💞️ I’m looking to collaborate on app development
 - 📫 How to reach me ashimsha222@gmail.com
 
 <!---
