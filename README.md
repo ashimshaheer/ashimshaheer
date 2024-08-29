@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @ashimshaheer
-- 👀 I’m interested in flutter developer
-- 🌱 I’m currently learning flutter development
-- 💞️ I’m looking to collaborate on app development
-- 📫 How to reach me ashimsha222@gmail.com
+# 👋 Hi, I'm @ashimshaheer
+
+- 👨‍💻 Flutter Developer with 1 year of experience
+- 🏢 Previously worked at BestWayInfoTech Pvt.Ltd
+- 👀 Passionate about mobile app development
+- 🌱 Continuously learning and improving my Flutter skills
+- 💞️ Looking to collaborate on app development projects
+- 📫 How to reach me: ashimsha222@gmail.com
 
 <!---
 ashimshaheer/ashimshaheer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
